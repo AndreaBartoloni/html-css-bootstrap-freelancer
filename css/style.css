@@ -1,0 +1,57 @@
+
+h1{
+    font-size: 80px;
+}
+.hr_white{
+    border: 1px solid white !important;
+    opacity: 15 !important;
+    
+}
+.green{
+    background-color: #25bc9d;
+    color: white;
+}
+.image_user{
+    background-image: url(../img/avatar.svg);
+    height: 25vh;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.star{
+    background-image: url(../img/star-solid.svg);
+    height: 2.5vh;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    filter: invert(1);
+}
+.star_black{
+    background-image: url(../img/star-solid.svg);
+    height: 2.5vh;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+.hr_black{
+    color: black !important;
+    opacity: 15 !important;
+}
+
+.blu{
+    background-color: #3a556c;
+    color: white;
+}
+.social{
+    filter: invert(1);
+    height: 20px;
+}
+.border-social{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+}
